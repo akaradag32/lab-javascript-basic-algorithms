@@ -1,6 +1,6 @@
 // Iteration 1: Names and Input
 
-/*const hacker1 = "Kerem";
+const hacker1 = "Kerem";
 console.log("The driver's name is " + hacker1);
 const hacker2 = "Kerem";
 console.log("The navigator's name is " + hacker2);
@@ -49,7 +49,7 @@ if (hacker1 === hacker2) {
   console.log("The driver's name goes first.");
 } else {
   console.log("Yo, the navigator goes first, definitely.");
-}*/
+}
 
 //BONUS
 
@@ -58,13 +58,13 @@ const longText =
   " Vivamus id sapien eget risus rutrum feugiat. Donec cursus tellus lobortis nunc ullamcorper tempus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris at pharetra velit. Donec venenatis convallis urna eget porttitor. Phasellus feugiat, nunc quis ultricies tempor, augue nisl pulvinar massa, sit amet dignissim arcu mi vitae felis. Ut magna ex, pharetra eget rutrum id, dictum nec quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent pellentesque varius risus quis semper. Etiam vel ante vel purus euismod congue. Donec fermentum aliquet nulla eu hendrerit. Sed nec enim erat. Praesent purus mauris, vestibulum et erat et, placerat dictum metus. In metus eros, eleifend non lorem sodales, euismod elementum nunc." +
   " Pellentesque nec feugiat dolor. Fusce malesuada lacinia lacus, at ultricies erat lacinia eu. Fusce eget tellus justo. In sed odio ac arcu pellentesque blandit. Pellentesque congue ligula quis dolor dictum, vitae molestie ipsum vestibulum. Aliquam at porta libero, id interdum quam. Ut ullamcorper pulvinar massa, in sollicitudin risus. Etiam eget sapien bibendum, commodo magna id, ullamcorper eros. Pellentesque hendrerit tincidunt ex, nec tempor eros vestibulum vel. Maecenas finibus dignissim magna a aliquet. Phasellus ornare, lacus non efficitur sodales, tortor enim volutpat risus, ut convallis diam lacus a eros. Sed ullamcorper sodales diam, vitae ullamcorper orci scelerisque quis.";
 
-/* let numberOfSpace = longText.split(" ").length + 1;
+let numberOfSpace = longText.split(" ").length + 1;
 
 console.log(numberOfSpace);
 
 let numberOfEt = longText.split(" et ").length;
 
-console.log(numberOfEt); */
+console.log(numberOfEt);
 
 //BONUS 2
 
